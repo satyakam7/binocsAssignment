@@ -1,0 +1,7 @@
+{
+  "name": "binocs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
